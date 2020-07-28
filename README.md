@@ -1,1 +1,1 @@
-# Shru-The-Virtual-Sign-Language-Assistant-
+# Shru-The-Virtual-Sign-Language-Assistant
